@@ -1,0 +1,1 @@
+Install wordpress version 5 with php ldap support
