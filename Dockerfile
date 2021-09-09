@@ -1,4 +1,4 @@
-FROM wordpress:5
+FROM wordpress:5.8.0
 
 # Install LDAP support
 RUN set -x \
